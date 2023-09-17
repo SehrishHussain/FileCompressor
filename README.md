@@ -1,2 +1,2 @@
 # FileCompressor
-A desktop app using PySimpleGUI that compresses files.
+A desktop app using PySimpleGUI that zips and unzips  files.
